@@ -23,6 +23,7 @@ API desenvolvida em Java/Spring boot com cadastro de categorias, produtos, categ
     git clone git@github.com:Rayjunqueira/store_management_api_JAVA_SPRING_BOOT.git
     
 2 - Acesse a pasta clonada
+
     cd nome-do-repositorio
 
 3 - Execute o comando de construção e instalação (Maven):
