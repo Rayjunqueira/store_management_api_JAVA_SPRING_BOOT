@@ -2,4 +2,5 @@
 
 # Sobre o Projeto
 
-API desenvolvida em Java/Spring boot e utilizando MongoDB como banco de dados. Na API inclui CRUD de produtos, clientes e de Categorias.
+API desenvolvida em Java/Spring boot com cadastro de categorias, produtos, categorias de clientes, categorias de produtos, pedidos e transações.
+
