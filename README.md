@@ -27,9 +27,11 @@ API desenvolvida em Java/Spring boot com cadastro de categorias, produtos, categ
     cd nome-do-repositorio
 
 3 - Execute o comando de construção e instalação (Maven):
+
     mvn clean install
-    
+
 4 - Execute o aplicativo Spring Boot:
+
     mvn spring-boot:run
 
 # Configurarando Banco de Dados Postgres
