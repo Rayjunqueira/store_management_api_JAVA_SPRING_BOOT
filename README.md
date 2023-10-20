@@ -15,3 +15,7 @@ API desenvolvida em Java/Spring boot com cadastro de categorias, produtos, categ
  ◼ Cálculo automático de estoque de produtos por quantidade em pedido. </p>
  ◼ CRUD completo das principais rotas da API. </p>
  ◼ Projeto todo desenvolvido em arquitetura MVC. </p>
+
+# Rodando a aplicação na sua máquina
+
+# Configurarando Banco de Dados Postgres
