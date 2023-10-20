@@ -1,0 +1,2 @@
+ALTER TABLE customers
+ADD COLUMN totalSpent DECIMAL(10, 2);

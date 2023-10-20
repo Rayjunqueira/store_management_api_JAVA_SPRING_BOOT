@@ -1,0 +1,2 @@
+ALTER TABLE sales
+ADD COLUMN cost DECIMAL(10, 2);

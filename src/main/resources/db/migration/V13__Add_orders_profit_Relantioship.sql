@@ -1,0 +1,2 @@
+ALTER TABLE orders
+ADD COLUMN profit DECIMAL(10, 2);
